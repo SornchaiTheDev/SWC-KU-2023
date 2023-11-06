@@ -1,0 +1,6 @@
+[submodule "Lab/Exception/Lab/Exception"]
+	path = Lab/Exception/Lab/Exception
+	url = https://github.com/CS211-661/lab12-exception-SornchaiTheDev
+[submodule "Learning/twitter-clone"]
+	path = Learning/twitter-clone
+	url = https://github.com/NongBokNongMeowFamily/twitter-clone
